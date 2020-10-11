@@ -17,4 +17,4 @@ Netflix Clone developed using React JS
  
 ### [Click here to browse the application](https://prcv-netflix-clone.web.app/)
 
-##### Want to get the code for Netflix Clone  mail me : Prasanthreddy.chittapu@gmail.com
+##### Want to get the code access for Netflix Clone  mail me : Prasanthreddy.chittapu@gmail.com
